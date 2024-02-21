@@ -24,3 +24,4 @@ Accuracy: 100%
 
 Recall: 100%
   
+**I USED SOME CODE FROM OTHER GITS
